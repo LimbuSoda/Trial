@@ -97,14 +97,3 @@ authed - Shows list of chats where bot is allowed to run
 - `audioQuality` - Can be set to any of these :- Normal/High/Hifi/Master
 
 - `downloadPath` - Where songs will be downloaded (set this to same as in the bot variable)
-
-#### It is recommened not to change other values in the JSON
-
-## JOIN [SUPPORT GROUP](https://t.me/weebzgroup) FOR HELP
-
-## Credits
-#### Yarronzz - For his [Tidal-dl CLI](https://github.com/yaronzz/Tidal-Media-Downloader)
-#### Odesli/Songlink - For [API](https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741)
-
-## Support Me
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7FWQZ4)
