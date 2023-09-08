@@ -4,6 +4,7 @@ class EN(object):
     START_TEXT = """
 <b>Hello {} Sir</b>,
 Iam a Tidal DL Bot. Used to download songs from Tidal.
+<b>©️ Powered by @AnnihilusOP</b>
 """
 
     HELP_MSG = """
@@ -55,17 +56,19 @@ Flags are :
     INLINE_NO_RESULT = "No results found"
 
     INPUT_MESSAGE_TRACK = """
-💽 <b>Title :</b> {0}
-👤 <b>Artist :</b> {1}
-💿 <b>Album :</b> {2}
-🕒 <b>Duration :</b> {3}
+✘ <b>Title :</b> {0}
+✘ <b>Artist :</b> {1}
+✘ <b>Album :</b> {2}
+✘ <b>Duration :</b> {3}
+✘ <b>Powered by @AnnihilusOP</b>
 """
 
     INPUT_MESSAGE_ALBUM = """
-💽 <b>Title :</b> {0}
-👤 <b>Artist :</b> {1}
-📀 <b>Tracks :</b> {2}
-📅 <b>Release Date :</b> {3}
+✘ <b>Title :</b> {0}
+✘ <b>Artist :</b> {1}
+✘ <b>Tracks :</b> {2}
+✘ <b>Release Date :</b> {3}
+✘ <b>Powered by @AnnihilusOP</b>
 """
 
     INLINE_MEDIA_SEARCH = """
@@ -79,12 +82,13 @@ Flags are :
 #
 #
     ALBUM_DETAILS = """
-💽 <b>Title :</b> {0}
-👤 <b>Artist :</b> {1}
-📅 <b>Release Date :</b> {2}
-📀 <b>Number of Tracks :</b> {3}
-🕒 <b>Duration :</b> {4}
-🔢 <b>Number of Volumes :</b> {5}
+✘ <b>Title :</b> {0}
+✘ <b>Artist :</b> {1}
+✘ <b>Release Date :</b> {2}
+✘ <b>Number of Tracks :</b> {3}
+✘ <b>Duration :</b> {4}
+✘ <b>Number of Volumes :</b> {5}
+✘ <b>Powered by @AnnihilusOP</b>
 """
 #
 #
